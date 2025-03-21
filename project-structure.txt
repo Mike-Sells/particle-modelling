@@ -1,0 +1,11 @@
+particle-modelling
+    ├── LICENSE
+    ├── project-structure.txt
+    ├── README.md
+    └── src
+        ├── Particle.class
+        ├── Particle.java
+        ├── ParticleSimulation.class
+        ├── ParticleSimulation.java
+        ├── ParticleSystem.class
+        └── ParticleSystem.java
